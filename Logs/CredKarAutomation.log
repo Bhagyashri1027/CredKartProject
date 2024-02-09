@@ -1,0 +1,84 @@
+2024-01-31 18:03:47,013 - INFO - root - test_user_login_001 - 69 -Testcase test_user_login_001 is stared
+2024-01-31 18:03:47,014 - INFO - root - test_user_login_001 - 70 -Opening browser
+2024-01-31 18:03:47,295 - INFO - root - test_user_login_001 - 76 -Entering username
+2024-01-31 18:03:47,488 - INFO - root - test_user_login_001 - 79 -Entering password
+2024-01-31 18:03:49,016 - INFO - root - test_user_login_001 - 82 -Click on login button
+2024-01-31 18:03:49,040 - INFO - root - test_user_login_001 - 85 -Testcase:test_user_login_001 is passed
+2024-01-31 18:03:49,144 - INFO - root - test_user_login_001 - 92 -Testcase:test_user_login_001 is passed
+2024-01-31 18:33:45,143 - INFO - root - test_user_login_001 - 69 -Testcase test_user_login_001 is stared
+2024-01-31 18:33:45,144 - INFO - root - test_user_login_001 - 70 -Opening browser
+2024-01-31 18:33:45,398 - INFO - root - test_user_login_001 - 76 -Entering username
+2024-01-31 18:33:45,559 - INFO - root - test_user_login_001 - 79 -Entering password
+2024-01-31 18:33:46,714 - INFO - root - test_user_login_001 - 82 -Click on login button
+2024-01-31 18:33:46,743 - INFO - root - test_user_login_001 - 85 -Testcase:test_user_login_001 is passed
+2024-01-31 18:33:46,867 - INFO - root - test_user_login_001 - 92 -Testcase:test_user_login_001 is passed
+2024-01-31 18:37:48,407 - INFO - root - test_user_login_001 - 69 -Testcase test_user_login_001 is stared
+2024-01-31 18:37:48,410 - INFO - root - test_user_login_001 - 70 -Opening browser
+2024-01-31 18:37:49,414 - INFO - root - test_user_login_001 - 76 -Entering username
+2024-01-31 18:37:49,717 - INFO - root - test_user_login_001 - 79 -Entering password
+2024-01-31 18:37:51,856 - INFO - root - test_user_login_001 - 82 -Click on login button
+2024-01-31 18:37:51,907 - INFO - root - test_user_login_001 - 85 -Testcase:test_user_login_001 is passed
+2024-01-31 18:37:52,183 - INFO - root - test_user_login_001 - 92 -Testcase:test_user_login_001 is passed
+2024-02-03 01:45:22,307 - INFO - root - test_user_login_001 - 70 -Testcase test_user_login_001 is stared
+2024-02-03 01:45:22,309 - INFO - root - test_user_login_001 - 71 -Opening browser
+2024-02-03 01:45:22,503 - INFO - root - test_user_login_001 - 77 -Entering username
+2024-02-03 01:45:22,606 - INFO - root - test_user_login_001 - 80 -Entering password
+2024-02-03 01:45:24,222 - INFO - root - test_user_login_001 - 83 -Click on login button
+2024-02-03 01:45:24,247 - INFO - root - test_user_login_001 - 86 -Testcase:test_user_login_001 is passed
+2024-02-03 01:45:24,380 - INFO - root - test_user_login_001 - 93 -Testcase:test_user_login_001 is passed
+2024-02-03 01:46:09,647 - INFO - root - test_user_login_001 - 70 -Testcase test_user_login_001 is stared
+2024-02-03 01:46:09,648 - INFO - root - test_user_login_001 - 71 -Opening browser
+2024-02-03 01:46:09,882 - INFO - root - test_user_login_001 - 77 -Entering username
+2024-02-03 01:46:10,000 - INFO - root - test_user_login_001 - 80 -Entering password
+2024-02-03 01:46:11,010 - INFO - root - test_user_login_001 - 83 -Click on login button
+2024-02-03 01:46:11,030 - INFO - root - test_user_login_001 - 86 -Testcase:test_user_login_001 is passed
+2024-02-03 01:46:11,148 - INFO - root - test_user_login_001 - 93 -Testcase:test_user_login_001 is passed
+2024-02-03 14:44:35,846 - INFO - root - test_user_login_001 - 66 -Testcase test_user_login_001 is stared
+2024-02-03 14:44:35,847 - INFO - root - test_user_login_001 - 67 -Opening browser
+2024-02-03 14:44:36,043 - INFO - root - test_user_login_001 - 73 -Entering username
+2024-02-03 14:44:36,144 - INFO - root - test_user_login_001 - 76 -Entering password
+2024-02-03 14:44:37,846 - INFO - root - test_user_login_001 - 79 -Click on login button
+2024-02-03 14:44:37,871 - INFO - root - test_user_login_001 - 82 -Testcase:test_user_login_001 is passed
+2024-02-03 14:44:37,977 - INFO - root - test_user_login_001 - 89 -Testcase:test_user_login_001 is passed
+2024-02-03 14:45:19,406 - INFO - root - test_user_login_001 - 66 -Testcase test_user_login_001 is stared
+2024-02-03 14:45:19,407 - INFO - root - test_user_login_001 - 67 -Opening browser
+2024-02-03 14:45:19,544 - INFO - root - test_user_login_001 - 73 -Entering username
+2024-02-03 14:45:19,677 - INFO - root - test_user_login_001 - 76 -Entering password
+2024-02-03 14:45:20,712 - INFO - root - test_user_login_001 - 79 -Click on login button
+2024-02-03 14:45:20,732 - INFO - root - test_user_login_001 - 82 -Testcase:test_user_login_001 is passed
+2024-02-03 14:45:20,846 - INFO - root - test_user_login_001 - 89 -Testcase:test_user_login_001 is passed
+2024-02-03 14:47:56,366 - INFO - root - test_user_login_001 - 66 -Testcase test_user_login_001 is stared
+2024-02-03 14:47:56,370 - INFO - root - test_user_login_001 - 67 -Opening browser
+2024-02-03 14:47:59,653 - INFO - root - test_user_login_001 - 73 -Entering username
+2024-02-03 14:48:01,004 - INFO - root - test_user_login_001 - 76 -Entering password
+2024-02-03 14:48:03,880 - INFO - root - test_user_login_001 - 79 -Click on login button
+2024-02-03 14:48:03,936 - INFO - root - test_user_login_001 - 82 -Testcase:test_user_login_001 is passed
+2024-02-03 14:48:04,327 - INFO - root - test_user_login_001 - 89 -Testcase:test_user_login_001 is passed
+2024-02-03 15:02:53,085 - INFO - root - test_user_login_001 - 65 -Testcase test_user_login_001 is stared
+2024-02-03 15:02:53,086 - INFO - root - test_user_login_001 - 66 -Opening browser
+2024-02-03 15:02:53,672 - INFO - root - test_user_login_001 - 72 -Entering username
+2024-02-03 15:02:54,021 - INFO - root - test_user_login_001 - 75 -Entering password
+2024-02-03 15:02:57,395 - INFO - root - test_user_login_001 - 78 -Click on login button
+2024-02-03 15:02:57,440 - INFO - root - test_user_login_001 - 81 -Testcase:test_user_login_001 is passed
+2024-02-03 15:02:57,726 - INFO - root - test_user_login_001 - 88 -Testcase:test_user_login_001 is passed
+2024-02-03 15:03:38,781 - INFO - root - test_user_login_001 - 65 -Testcase test_user_login_001 is stared
+2024-02-03 15:03:38,783 - INFO - root - test_user_login_001 - 66 -Opening browser
+2024-02-03 15:03:39,321 - INFO - root - test_user_login_001 - 72 -Entering username
+2024-02-03 15:03:39,546 - INFO - root - test_user_login_001 - 75 -Entering password
+2024-02-03 15:03:40,742 - INFO - root - test_user_login_001 - 78 -Click on login button
+2024-02-03 15:03:40,785 - INFO - root - test_user_login_001 - 81 -Testcase:test_user_login_001 is passed
+2024-02-03 15:03:40,972 - INFO - root - test_user_login_001 - 88 -Testcase:test_user_login_001 is passed
+2024-02-09 18:21:23,200 - INFO - root - test_user_login_001 - 65 -Testcase test_user_login_001 is stared
+2024-02-09 18:21:23,202 - INFO - root - test_user_login_001 - 66 -Opening browser
+2024-02-09 18:21:23,364 - INFO - root - test_user_login_001 - 72 -Entering username
+2024-02-09 18:21:23,464 - INFO - root - test_user_login_001 - 75 -Entering password
+2024-02-09 18:21:26,635 - INFO - root - test_user_login_001 - 78 -Click on login button
+2024-02-09 18:21:26,659 - INFO - root - test_user_login_001 - 81 -Testcase:test_user_login_001 is passed
+2024-02-09 18:21:26,789 - INFO - root - test_user_login_001 - 88 -Testcase:test_user_login_001 is passed
+2024-02-09 18:22:02,626 - INFO - root - test_user_login_001 - 65 -Testcase test_user_login_001 is stared
+2024-02-09 18:22:02,789 - INFO - root - test_user_login_001 - 66 -Opening browser
+2024-02-09 18:22:02,943 - INFO - root - test_user_login_001 - 72 -Entering username
+2024-02-09 18:22:03,045 - INFO - root - test_user_login_001 - 75 -Entering password
+2024-02-09 18:22:07,981 - INFO - root - test_user_login_001 - 78 -Click on login button
+2024-02-09 18:22:08,000 - INFO - root - test_user_login_001 - 81 -Testcase:test_user_login_001 is passed
+2024-02-09 18:22:08,113 - INFO - root - test_user_login_001 - 88 -Testcase:test_user_login_001 is passed
